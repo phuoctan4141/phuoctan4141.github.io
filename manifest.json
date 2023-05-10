@@ -1,6 +1,6 @@
 {
-    "name": "web",
-    "short_name": "web",
+    "name": "relaxon",
+    "short_name": "relaxon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
